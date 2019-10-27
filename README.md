@@ -1,5 +1,5 @@
 # UltraFreedomMod
-UltraFreedomMod built on TotalFreedomMod For the UltraFreedom Minecraft Server. Contributors: joseph#3136/ultrajo07; Panaghioti#6525/GxbEcho; Steeved#3653/Steeved.
+UltraFreedomMod built on TotalFreedomMod For the UltraFreedom Minecraft Server. Contributors: joseph#3136/ultrajo07; Panaghioti#6525/GxbEcho.
 # About TotalFreedomMod
 TotalFreedomMod is a CraftBukkit server plugin designed primarily to support the Official TotalFreedom Minecraft Server. However, you are more than welcome to adapt the source for your own server.
 
