@@ -19,7 +19,6 @@ server:
 
   # All players who show up as owner
   owners:
-    - Catholic_Mario
     - ultrajo07
 
   # All players who show up as executive
