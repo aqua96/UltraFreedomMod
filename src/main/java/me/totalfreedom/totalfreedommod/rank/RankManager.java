@@ -56,11 +56,6 @@ public class RankManager extends FreedomService
             return Title.OWNER;
         }
 
-        if (sender.getName().equals("GxbEcho"))
-        {
-            return Title.DEVELOPER;
-        }
-
         // Developers always show up
         if (FUtil.DEVELOPERS.contains(player.getName()))
         {
